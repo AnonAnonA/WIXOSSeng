@@ -24,7 +24,7 @@ plugins/WIXOSSeng/sounds/signi_p_water.wav	https://github.com/WITCHCROSS/WIXOSSe
 plugins/WIXOSSeng/sounds/signi_shield.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_shield.wav	-71471
 plugins/WIXOSSeng/sounds/signi_sword.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_sword.wav	-81988
 plugins/WIXOSSeng/sounds/spell.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/spell.wav	-71947
-plugins/WIXOSSeng/updatelist.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/updatelist.txt	302815
-plugins/WIXOSSeng/version.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/version.txt	29664
-CardURLFiles:
+plugins/WIXOSSeng/updatelist.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/updatelist.txt	302717
+plugins/WIXOSSeng/version.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/version.txt	30873
+CardImageURLs:
 CardImageURLs1.txt
