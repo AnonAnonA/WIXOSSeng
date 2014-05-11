@@ -1,4 +1,4 @@
-CardImageURLs:	
+CardImageURLs:
 WXD01_White_Hope/WD01-001.jpg	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/setimages/WXD01_White_Hope/WD01-001.jpg
 WXD01_White_Hope/WD01-002.jpg	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/setimages/WXD01_White_Hope/WD01-002.jpg
 WXD01_White_Hope/WD01-003.jpg	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/setimages/WXD01_White_Hope/WD01-003.jpg
