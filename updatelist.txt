@@ -1,5 +1,6 @@
 WIXOSSeng	05-11-14
 images/backgrounds/wixoss_mat.jpg	http://i.imgur.com/91G3Sk5.png	-80787
+plugins/wixoss/CardImageURLs1.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/CardImageURLs1.txt	640686
 plugins/wixoss/bot.jpg	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/bot.jpg	8217
 plugins/wixoss/ListOfCardSoundFiles.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/ListOfCardSoundFiles.txt	24421
 plugins/wixoss/plugininfo.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/plugininfo.txt	458086
