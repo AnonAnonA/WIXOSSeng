@@ -1,0 +1,4 @@
+<listofcardsoundfiles>
+<soundentry><soundfile>arts</soundfile><field>Type</field><eval>IS</eval><data>Arts</data></soundentry>
+<soundentry><soundfile>lrig</soundfile><field>Type</field><eval>CONTAINS</eval><data>LRIG</data></soundentry>
+</listofcardsoundfiles>

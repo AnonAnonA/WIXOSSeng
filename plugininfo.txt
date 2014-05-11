@@ -1,0 +1,209 @@
+<plugin>
+//No Global Stats?
+	
+//No Player Stats?
+	
+//DeckZones (zones that Players bring with them)
+	<deckzone>
+		<label>Main Deck</label>
+			<gamezonetoloadto>Main Deck</gamezonetoloadto>
+			<shuffle>yes</shuffle>
+	</deckzone>
+	
+	<deckzone>
+		<label>LRIG Deck</label>
+			<gamezonetoloadto>LRIG Deck</gamezonetoloadto>
+			<shuffle>no</shuffle>
+	</deckzone>
+	
+//GameZones ("loose" zones, regular card movement)
+
+	//Table GameZones
+	
+	<gamezone>
+		<label>Main Deck</label>
+			<visibletoowner>no</visibletoowner>
+			<visibletoothers>no</visibletoothers>
+	</gamezone>
+	
+	<gamezone>
+		<label>LRIG Deck</label>
+			<visibletoowner>yes</visibletoowner>
+			<visibletoothers>no</visibletoothers>
+	</gamezone>	
+	
+	<gamezone>
+		<label>LRIG Zone</label>
+			<visibletoowner>yes</visibletoowner>
+			<visibletoothers>yes</visibletoothers>
+	</gamezone>
+	
+	<gamezone>
+		<label>SIGNIZone1</label>
+			<visibletoowner>yes</visibletoowner>
+			<visibletoothers>yes</visibletoothers>
+	</gamezone>
+	
+	<gamezone>
+		<label>SIGNIZone2</label>
+			<visibletoowner>yes</visibletoowner>
+			<visibletoothers>yes</visibletoothers>
+	</gamezone>
+	
+	<gamezone>
+		<label>SIGNIZone3</label>
+			<visibletoowner>yes</visibletoowner>
+			<visibletoothers>yes</visibletoothers>
+	</gamezone>
+	
+	<gamezone>
+		<label>Trash</label>
+			<visibletoowner>yes</visibletoowner>
+			<visibletoothers>yes</visibletoothers>
+	</gamezone>
+	
+	<gamezone>
+		<label>LRIG Trash</label>
+			<visibletoowner>yes</visibletoowner>
+			<visibletoothers>yes</visibletoothers>
+	</gamezone>
+	
+	<gamezone>
+		<label>EnerZone</label>
+			<visibletoowner>yes</visibletoowner>
+			<visibletoothers>yes</visibletoothers>
+	</gamezone>
+	
+	<gamezone>
+		<label>CheckZone</label>
+			<visibletoowner>yes</visibletoowner>
+			<visibletoothers>yes</visibletoothers>
+	</gamezone>
+	
+	<gamezone>
+		<label>Life Cloth</label>
+			<visibletoowner>yes</visibletoowner>
+			<visibletoothers>yes</visibletoothers>
+	</gamezone>
+	
+	//Off-table GameZones
+	
+	<gamezone>
+		<label>Hand</label>
+			<visibletoowner>yes</visibletoowner>
+			<visibletoothers>no</visibletoothers>
+	</gamezone>
+	
+//Phases
+	
+	<phase><label>Up Phase</label></phase>
+	<phase><label>Draw Phase</label></phase>
+	<phase><label>Ener Phase</label></phase>
+	<phase><label>Grow Phase</label></phase>
+	<phase><label>Main Phase</label></phase>
+	<phase><label>Attack Phase</label></phase>
+	<phase><label>End Phase</label></phase>
+	
+//General Functions
+
+	<generalfunction>
+		<label>Draw</label>
+			<kind>DRAWCARD</kind>
+			<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Restore/Construct</label>
+		<kind>TRANSFERCARD</kind>
+		<sourceowner>performer</sourceowner>
+		<sourcegamezone>Deck</sourcegamezone>
+		<sourceposition>top</sourceposition>
+		<destinationowner>performer</destinationowner>
+		<destinationgamezone>Life Cloth</destinationgamezone>
+		<destinationposition>facedown</destinationposition>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Roll Die</label>
+		<kind>ROLLD6</kind>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Flip Coin</label>
+		<kind>FLIPCOIN</kind>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Previous Phase</label>
+		<kind>PREVIOUSPHASE</kind>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Next Phase</label>
+		<kind>NEXTPHASE</kind>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Previous Turn</label>
+		<kind>PEREVIOUSTURN</kind>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Next Turn</label>
+		<kind>NEXTTURN</kind>
+	</generalfunction>
+	
+//Card Functions
+
+	<cardfunction>
+		<label>Up</label>
+		<kind>MAKERIGHT0DEGREES</kind>
+		<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+
+	<cardfunction>
+		<label>Down</label>
+		<kind>MAKERIGHT90DEGREES</kind>
+		<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Freeze</label>
+		<kind>ADDCOUNTER</kind>
+		<color>blue</color>
+		//omit textoverimagecolor, def == black
+		<includeasbutton>yes</includeasbutton>
+		<PositionX>.5</PositionX><PositionY>.10</PositionY>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Mark</label>
+		<kind>ADDCOUNTER</kind>
+		<color>red</color>
+		//omit textoverimagecolor
+		<includeasbutton>yes</includeasbutton>
+		<PositionX>.5</PositionX><PositionY>.05</PositionY>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Flip Card</label>
+		<kind>TURNOVER</kind>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Clear</label>
+		<kind>CLEARCARD</kind>
+		<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+
+//Misc. Definitions
+	<definition>
+		<kind>ISALLOWINGMULTIPLECARDBACKS</kind>
+	</definition>
+	
+	<definition>
+		<kind>ISYOURFACEDOWNVISIBLE</kind>
+	</definition>
+
+</plugin>
