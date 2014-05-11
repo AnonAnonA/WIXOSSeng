@@ -8,22 +8,6 @@ plugins/WIXOSSeng/sets/carddata.txt	https://raw.githubusercontent.com/WITCHCROSS
 plugins/WIXOSSeng/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/setimages/general/cardback.jpg	-30778
 plugins/WIXOSSeng/sets/setimages/general/LRIGback.jpg	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/setimages/general/LRIGback.jpg	173009
 plugins/WIXOSSeng/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/setimages/general/spawned.jpg	-46526
-plugins/WIXOSSeng/sounds/arts.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/arts.wav	-198475
-plugins/WIXOSSeng/sounds/lrig.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/lrig.wav	-807728
-plugins/WIXOSSeng/sounds/signi_angel.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_angel.wav	-870954
-plugins/WIXOSSeng/sounds/signi_bird.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_bird.wav	-310718
-plugins/WIXOSSeng/sounds/signi_bow.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_bow.wav	-80636
-plugins/WIXOSSeng/sounds/signi_cannon.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_cannon.wav	-526179
-plugins/WIXOSSeng/sounds/signi_elec.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_elec.wav	-115602
-plugins/WIXOSSeng/sounds/signi_elem.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_elem.wav	-96045
-plugins/WIXOSSeng/sounds/signi_jewel.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_jewel.wav	743467
-plugins/WIXOSSeng/sounds/signi_mineral.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_mineral.wav	-202165
-plugins/WIXOSSeng/sounds/signi_plant.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_plant.wav	-98286
-plugins/WIXOSSeng/sounds/signi_p_earth.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_p_earth.wav	-315517
-plugins/WIXOSSeng/sounds/signi_p_water.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_p_water.wav	-10899
-plugins/WIXOSSeng/sounds/signi_shield.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_shield.wav	-71471
-plugins/WIXOSSeng/sounds/signi_sword.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_sword.wav	-81988
-plugins/WIXOSSeng/sounds/spell.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/spell.wav	-71947
 plugins/WIXOSSeng/updatelist.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/updatelist.txt	302712
 plugins/WIXOSSeng/version.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/version.txt	30873
 CardURLFiles:
