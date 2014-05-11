@@ -38,30 +38,6 @@
 	</gamezone>	
 	
 	<gamezone>
-		<label>LRIG Zone</label>
-			<visibletoowner>yes</visibletoowner>
-			<visibletoothers>yes</visibletoothers>
-	</gamezone>
-	
-	<gamezone>
-		<label>SIGNIZone1</label>
-			<visibletoowner>yes</visibletoowner>
-			<visibletoothers>yes</visibletoothers>
-	</gamezone>
-	
-	<gamezone>
-		<label>SIGNIZone2</label>
-			<visibletoowner>yes</visibletoowner>
-			<visibletoothers>yes</visibletoothers>
-	</gamezone>
-	
-	<gamezone>
-		<label>SIGNIZone3</label>
-			<visibletoowner>yes</visibletoowner>
-			<visibletoothers>yes</visibletoothers>
-	</gamezone>
-	
-	<gamezone>
 		<label>Trash</label>
 			<visibletoowner>yes</visibletoowner>
 			<visibletoothers>yes</visibletoothers>
