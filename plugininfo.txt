@@ -1,4 +1,9 @@
 <plugin>
+
+<pluginversion>0.1</pluginversion>
+
+<pluginname>WIXOSSeng</pluginname>
+
 //No Global Stats?
 	
 //No Player Stats?
@@ -96,13 +101,13 @@
 	
 //Phases
 	
-	<phase><label>Up Phase</label></phase>
-	<phase><label>Draw Phase</label></phase>
-	<phase><label>Ener Phase</label></phase>
-	<phase><label>Grow Phase</label></phase>
-	<phase><label>Main Phase</label></phase>
-	<phase><label>Attack Phase</label></phase>
-	<phase><label>End Phase</label></phase>
+	<phase><label>Up</label></phase>
+	<phase><label>Draw</label></phase>
+	<phase><label>Ener</label></phase>
+	<phase><label>Grow</label></phase>
+	<phase><label>Main</label></phase>
+	<phase><label>Attack</label></phase>
+	<phase><label>End</label></phase>
 	
 //General Functions
 
@@ -205,5 +210,9 @@
 	<definition>
 		<kind>ISYOURFACEDOWNVISIBLE</kind>
 	</definition>
+	
+<listofcarddatafiles>
+	<filetoinclude>carddata.txt</filetoinclude>
+</listofcarddatafiles>
 
 </plugin>

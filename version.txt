@@ -1,0 +1,9 @@
+<version>
+
+	<lastupdateYYMMDD>140511</lastupdateYYMMDD>
+	<quality>medium</quality>
+	<versionurl>http://lackeyccg.com/zombie/high/version.txt</versionurl>
+	<updateurl>http://lackeyccg.com/zombie/high/updatelist.txt</updateurl>
+	<message>Let's see if this works.</message>
+
+</version>

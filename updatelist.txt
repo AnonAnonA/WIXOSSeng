@@ -1,0 +1,27 @@
+WIXOSSeng	05-11-14
+images/backgrounds/wixoss_mat.jpg	http://www.saintseiyapedia.com/wixosslccg/images/backgrounds/wixoss_mat.jpg	0
+plugins/wixoss/bot.jpg	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/bot.jpg	0
+plugins/wixoss/ListOfCardSoundFiles.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/ListOfCardSoundFiles.txt	0
+plugins/wixoss/plugininfo.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/plugininfo.txt	0
+plugins/WIXOSSeng/sets/carddata.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/carddata.txt	0
+plugins/wixoss/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/setimages/general/cardback.jpg	0
+plugins/wixoss/sets/setimages/general/LRIGback.jpg	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/setimages/general/LRIGback.jpg	0
+plugins/wixoss/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/setimages/general/spawned.jpg	0
+plugins/wixoss/sounds/arts.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/arts.wav	0
+plugins/wixoss/sounds/lrig.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/lrig.wav	0
+plugins/wixoss/sounds/signi_angel.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_angel.wav	0
+plugins/wixoss/sounds/signi_bird.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_bird.wav	0
+plugins/wixoss/sounds/signi_bow.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_bow.wav	0
+plugins/wixoss/sounds/signi_cannon.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_cannon.wav	0
+plugins/wixoss/sounds/signi_elec.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_elec.wav	0
+plugins/wixoss/sounds/signi_elem.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_elem.wav	0
+plugins/wixoss/sounds/signi_jewel.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_jewel.wav	0
+plugins/wixoss/sounds/signi_mineral.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_mineral.wav	0
+plugins/wixoss/sounds/signi_plant.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_plant.wav	0
+plugins/wixoss/sounds/signi_p_earth.wav https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_p_earth.wav	0
+plugins/wixoss/sounds/signi_p_water.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_p_water.wav	0
+plugins/wixoss/sounds/signi_shield.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_shield.wav	0
+plugins/wixoss/sounds/signi_sword.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_sword.wav	0
+plugins/wixoss/sounds/spell.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/spell.wav	0
+CardURLFiles:
+CardImageURLs1.txt
