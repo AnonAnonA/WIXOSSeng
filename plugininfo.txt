@@ -26,6 +26,12 @@
 	//Table GameZones
 	
 	<gamezone>
+		<label>Hand</label>
+			<visibletoowner>yes</visibletoowner>
+			<visibletoothers>no</visibletoothers>
+	</gamezone>
+	
+	<gamezone>
 		<label>Main Deck</label>
 			<visibletoowner>no</visibletoowner>
 			<visibletoothers>no</visibletoothers>
@@ -36,6 +42,12 @@
 			<visibletoowner>yes</visibletoowner>
 			<visibletoothers>no</visibletoothers>
 	</gamezone>	
+	
+	<gamezone>
+		<label>EnerZone</label>
+			<visibletoowner>yes</visibletoowner>
+			<visibletoothers>yes</visibletoothers>
+	</gamezone>
 	
 	<gamezone>
 		<label>Trash</label>
@@ -50,29 +62,9 @@
 	</gamezone>
 	
 	<gamezone>
-		<label>EnerZone</label>
-			<visibletoowner>yes</visibletoowner>
-			<visibletoothers>yes</visibletoothers>
-	</gamezone>
-	
-	<gamezone>
-		<label>CheckZone</label>
-			<visibletoowner>yes</visibletoowner>
-			<visibletoothers>yes</visibletoothers>
-	</gamezone>
-	
-	<gamezone>
 		<label>Life Cloth</label>
 			<visibletoowner>yes</visibletoowner>
 			<visibletoothers>yes</visibletoothers>
-	</gamezone>
-	
-	//Off-table GameZones
-	
-	<gamezone>
-		<label>Hand</label>
-			<visibletoowner>yes</visibletoowner>
-			<visibletoothers>no</visibletoothers>
 	</gamezone>
 	
 //Phases
@@ -96,6 +88,7 @@
 	<generalfunction>
 		<label>Restore/Construct</label>
 		<kind>TRANSFERCARD</kind>
+		<includeasbutton>yes</includeasbutton>
 		<sourceowner>performer</sourceowner>
 		<sourcegamezone>Deck</sourcegamezone>
 		<sourceposition>top</sourceposition>
@@ -186,6 +179,11 @@
 	<definition>
 		<kind>ISYOURFACEDOWNVISIBLE</kind>
 	</definition>
+	
+	<definition>
+		<kind>TABLEITEMSCALE</kind>
+		<value>100</value>
+	<definition>
 	
 <listofcarddatafiles>
 	<filetoinclude>carddata.txt</filetoinclude>

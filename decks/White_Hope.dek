@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>WIXOSSeng</game>
+	</meta>
+	<superzone name="Main Deck">
+		<card><name id="WD01-009">Armor Suit Romail</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-009">Armor Suit Romail</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-009">Armor Suit Romail</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-009">Armor Suit Romail</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-011">Gauntlet Trett</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-011">Gauntlet Trett</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-011">Gauntlet Trett</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-011">Gauntlet Trett</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-015">Get Bible</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-015">Get Bible</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-015">Get Bible</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-015">Get Bible</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-010">Greatsword Caliburn</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-010">Greatsword Caliburn</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-010">Greatsword Caliburn</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-010">Greatsword Caliburn</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-012">Medium Sword Flamvell</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-012">Medium Sword Flamvell</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-012">Medium Sword Flamvell</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-012">Medium Sword Flamvell</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-016">Servant D</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-016">Servant D</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-016">Servant D</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-016">Servant D</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-017">Servant O</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-017">Servant O</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-017">Servant O</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-017">Servant O</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-014">Short Bow Bownia</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-014">Short Bow Bownia</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-014">Short Bow Bownia</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-014">Short Bow Bownia</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-013">Shortsword Kukri</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-013">Shortsword Kukri</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-013">Shortsword Kukri</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-013">Shortsword Kukri</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-018">Surging Knowledge</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-018">Surging Knowledge</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-018">Surging Knowledge</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-018">Surging Knowledge</name><set>WXD01_White_Hope</set></card>
+	</superzone>
+	<superzone name="LRIG Deck">
+		<card><name id="WD01-005,LRIGback">Miko of the New Moon Tamayorihime</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-004,LRIGback">Miko of the Crescent Moon Tamayorihime</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-003,LRIGback">Miko of the Half Moon Tamayorihime</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-002,LRIGback">Miko of the Gibbous Moon Tamayorihime</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-001,LRIGback">Miko of the Full Moon Tamayorihime</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-008,LRIGback">Baroque Defense</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-007,LRIGback">Eibon</name><set>WXD01_White_Hope</set></card>
+		<card><name id="WD01-006,LRIGback">Rococo Boundary</name><set>WXD01_White_Hope</set></card>
+	</superzone>
+</deck>
