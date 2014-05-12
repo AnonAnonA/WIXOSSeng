@@ -63,8 +63,8 @@
 	
 	<gamezone>
 		<label>Life Cloth</label>
-			<visibletoowner>yes</visibletoowner>
-			<visibletoothers>yes</visibletoothers>
+			<visibletoowner>no</visibletoowner>
+			<visibletoothers>no</visibletoothers>
 	</gamezone>
 	
 //Phases
@@ -86,15 +86,15 @@
 	</generalfunction>
 	
 	<generalfunction>
-		<label>Restore/Construct</label>
-		<kind>TRANSFERCARD</kind>
-		<includeasbutton>yes</includeasbutton>
-		<sourceowner>performer</sourceowner>
-		<sourcegamezone>Deck</sourcegamezone>
-		<sourceposition>top</sourceposition>
-		<destinationowner>performer</destinationowner>
-		<destinationgamezone>Life Cloth</destinationgamezone>
-		<destinationposition>facedown</destinationposition>
+		<label>Restore</label>
+			<kind>TRANSFERCARD</kind>
+			<sourceowner>performer</sourceowner>
+			<sourcegamezone>Main Deck</sourcegamezone>
+			<sourceposition>top</sourceposition>
+			<destinationowner>performer</destinationowner>
+			<destinationgamezone>Life Cloth</destinationgamezone>
+			<destinationposition>facedown</destinationposition>
+			<includeasbutton>yes</includeasbutton>
 	</generalfunction>
 	
 	<generalfunction>
@@ -163,6 +163,7 @@
 	<cardfunction>
 		<label>Flip Card</label>
 		<kind>TURNOVER</kind>
+		<includeasbutton>yes</includeasbutton>
 	</cardfunction>
 	
 	<cardfunction>

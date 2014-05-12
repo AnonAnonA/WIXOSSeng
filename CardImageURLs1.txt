@@ -21,7 +21,7 @@ WXD02_Red_Ambition/WD02-001.png	https://raw.githubusercontent.com/WITCHCROSS/WIX
 WXD02_Red_Ambition/WD02-002.png	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/setimages/WXD02_Red_Ambition/WD02-002.png
 WXD02_Red_Ambition/WD02-003.png	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/setimages/WXD02_Red_Ambition/WD02-003.png
 WXD02_Red_Ambition/WD02-004.png	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/setimages/WXD02_Red_Ambition/WD02-004.png
-WXD02_Red_Ambition/WD02-005.jpg	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/setimages/WXD02_Red_Ambition/WD02-005.jpg
+WXD02_Red_Ambition/WD02-005.png	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/setimages/WXD02_Red_Ambition/WD02-005.png
 WXD02_Red_Ambition/WD02-006.png	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/setimages/WXD02_Red_Ambition/WD02-006.png
 WXD02_Red_Ambition/WD02-007.png	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/setimages/WXD02_Red_Ambition/WD02-007.png
 WXD02_Red_Ambition/WD02-008.png	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/setimages/WXD02_Red_Ambition/WD02-008.png

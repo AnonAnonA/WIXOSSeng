@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>WIXOSSeng</game>
+	</meta>
+	<superzone name="Main Deck">
+		<card><name id="WD03-009">Code Art RMN</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-009">Code Art RMN</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-009">Code Art RMN</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-009">Code Art RMN</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-014">Code Art RFR</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-014">Code Art RFR</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-014">Code Art RFR</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-014">Code Art RFR</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-011">Code Art SMP</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-011">Code Art SMP</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-011">Code Art SMP</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-011">Code Art SMP</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-012">Code Art JV</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-012">Code Art JV</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-012">Code Art JV</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-012">Code Art JV</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-010">Code Art DRS</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-010">Code Art DRS</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-010">Code Art DRS</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-010">Code Art DRS</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-013">Code Art SC</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-013">Code Art SC</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-013">Code Art SC</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-013">Code Art SC</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-017">Servant O</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-017">Servant O</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-017">Servant O</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-017">Servant O</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-016">Servant D</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-016">Servant D</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-016">Servant D</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-016">Servant D</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-018">Surging Knowledge</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-018">Surging Knowledge</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-018">Surging Knowledge</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-018">Surging Knowledge</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-015">TOO BAD</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-015">TOO BAD</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-015">TOO BAD</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-015">TOO BAD</name><set>WXD03_Blue_Appli</set></card>
+	</superzone>
+	<superzone name="LRIG Deck">
+		<card><name id="WD03-008,LRIGback">Draw Two</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-007,LRIGback">Don&apos;t Move</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-005,LRIGback">Code Piruluk</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-002,LRIGback">Code Piruluk G</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-004,LRIGback">Code Piruluk K</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-003,LRIGback">Code Piruluk M</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-006,LRIGback">Peeping Analyze</name><set>WXD03_Blue_Appli</set></card>
+		<card><name id="WD03-001,LRIGback">Code Piruluk T</name><set>WXD03_Blue_Appli</set></card>
+	</superzone>
+</deck>

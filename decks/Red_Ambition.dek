@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>WIXOSSeng</game>
+	</meta>
+	<superzone name="Main Deck">
+		<card><name id="WD02-012.png">Silk Stone Bronza</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-012.png">Silk Stone Bronza</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-012.png">Silk Stone Bronza</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-012.png">Silk Stone Bronza</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-014.png">Silk Stone Amethyst</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-014.png">Silk Stone Amethyst</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-014.png">Silk Stone Amethyst</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-014.png">Silk Stone Amethyst</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-011.png">Silk Stone Garnet</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-011.png">Silk Stone Garnet</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-011.png">Silk Stone Garnet</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-011.png">Silk Stone Garnet</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-013.png">Silk Stone Iron</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-013.png">Silk Stone Iron</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-013.png">Silk Stone Iron</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-013.png">Silk Stone Iron</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-015.png">Roaring Flame Pillar</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-015.png">Roaring Flame Pillar</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-015.png">Roaring Flame Pillar</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-015.png">Roaring Flame Pillar</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-010.png">Silk Stone Sylvan</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-010.png">Silk Stone Sylvan</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-010.png">Silk Stone Sylvan</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-010.png">Silk Stone Sylvan</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-009.png">Silk Stone Volcano</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-009.png">Silk Stone Volcano</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-009.png">Silk Stone Volcano</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-009.png">Silk Stone Volcano</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-016.png">Servant D</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-016.png">Servant D</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-016.png">Servant D</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-016.png">Servant D</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-017.png">Servant O</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-017.png">Servant O</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-017.png">Servant O</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-017.png">Servant O</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-018.png">Surging Knowledge</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-018.png">Surging Knowledge</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-018.png">Surging Knowledge</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-018.png">Surging Knowledge</name><set>WXD02_Red_Ambition</set></card>
+	</superzone>
+	<superzone name="LRIG Deck">
+		<card><name id="WD02-007.png,LRIGback">Flaming Back Formation</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-008.png,LRIGback">Burning Stone Blaze</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-006.png,LRIGback">Like a Moth to a Flame</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-001.png,LRIGback">Hanayo - Four</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-004.png,LRIGback">Hanayo - One</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-002.png,LRIGback">Hanayo - Three</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-003.png,LRIGback">Hanayo - Two</name><set>WXD02_Red_Ambition</set></card>
+		<card><name id="WD02-005.png,LRIGback">Hanayo - Zero</name><set>WXD02_Red_Ambition</set></card>
+	</superzone>
+</deck>
