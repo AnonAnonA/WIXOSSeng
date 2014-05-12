@@ -1,9 +1,0 @@
-<version>
-
-	<lastupdateYYMMDD>140511</lastupdateYYMMDD>
-	<quality>medium</quality>
-	<versionurl>https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/version.txt</versionurl>
-	<updateurl>https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/updatelist.txt</updateurl>
-	<message>Let's see if this works.</message>
-
-</version>
