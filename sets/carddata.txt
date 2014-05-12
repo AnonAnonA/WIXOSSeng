@@ -158,13 +158,13 @@ Servant O	WX01_ServedSelector_1	WX01-102	Colorless		SIGNI	Spirit Source		2000	1	
 Surging Knowledge	WX01_ServedSelector_1	WX01-103	Colorless	0C	Spell									Draw 1 card.				EnerCharge 1	Illust okera (LRIG release their own power using Ener. That is called an Arts.)	-0	spell
 Blind Rush [Big Web]	WXD04_Green_Wana	WD04-008.png,LRIGback	Green	3G	Arts							[Main Phase] [Attack Phase]		Banish one of your opponent's SIGNI with 12000 power or above					Illust (Even the mighty can fall! ~Midoriko~)		
 Phantom Beast Misuzaku	WXD04_Green_Wana	WD04-010.png	Green		SIGNI	Spirit Life	Earth Beast	8000	3		Midoriko				[Continuous] - : If the power of this SIGNI is 10000 or more, it gains [Lancer]. (Should this SIGNI banish an opposing SIGNI, it also crashes one Life Cloth of the opponent.)			Banish one opposing SIGNI of 12000 or more power.			
-Code Piruluk	Promo	PR-003	Blue		LRIG	Piruluk			0										Illust POP (...... ~ Piruluk ~)		
-Touki Midoriko	Promo	PR-004	Green		LRIG	Midoriko			0										Illust POP (I am your LRIG. ~Midoriko~)		
-Code Piruluk	Promo	PR-011	Blue		LRIG	Piruluk			0										Illust hitoto* (...Open ~ Piruluk ~)		
-Code Piruluk	Promo	PR-015	Blue		LRIG	Piruluk			0										Illust CHANxCO (… Open ~Piruluk~)		
+Code Piruluk	Promo	PR-003,LRIGback	Blue	0B	LRIG	Piruluk			0										Illust POP (...... ~ Piruluk ~)		
+Touki Midoriko	Promo	PR-004,LRIGback	Green	0G	LRIG	Midoriko			0										Illust POP (I am your LRIG. ~Midoriko~)		
+Code Piruluk	Promo	PR-011,LRIGback	Blue	0B	LRIG	Piruluk			0										Illust hitoto* (...Open ~ Piruluk ~)		
+Code Piruluk	Promo	PR-015,LRIGback	Blue	0B	LRIG	Piruluk			0										Illust CHANxCO (… Open ~Piruluk~)		
 Medium Spear Hastal	Promo	PR-017	White		SIGNI	Spirit Military Arts	Arms	5000	2		Tama				[Continuous] - : As long as you have a Level 4 "Tama" in play, this SIGNI's power becomes 10000.				Illust F.S ( )		
 Silk Stone Mithril	Promo	PR-018	Red		SIGNI	Spirit Silk	Jewel	15000	3		Hanayo				[On-Play]: Discard 1 card from your hand.	[Continuous]: During your turn, this SIGNI's power is 18000.			Illust		
 TREASURE	Promo	PR-019	Blue	1B	Spell						Piruluk			Discard any number of cards from your hands. Draw that amount of cards+1				Discard 2 cards, then Draw 3 cards.	Illust		
 増援	Promo	PR-020	Green	1G	Spell						Midoriko			Choose from these 2 effects 1 to resolve: 1) Search your deck for a SIGNI of 10000 power and above and put it in your hand. Shuffle your deck afterward; 2) Place 2 cards from the top of your deck to the EnerZone					Illust		
-Dominating Fury	Promo	PR-021	Red	3R	Arts							[Main Phase] [Attack Phase]		Banish one opponent's SIGNI of 10000 power or below					Illust		
-Xeno Multiple	Promo	PR-040	White	2W 2B	Arts							[Main Phase] [Attack Phase]		Choose from these 4 up to 2 effects to resolve: 1) Your opponent's LRIG cannot attack this turn; 2) Freeze 2 opponent SIGNI; 3) Return 1 opponent SIGNI to their hand; 4) Draw 2 cards					Illust		
+Dominating Fury	Promo	PR-021,LRIGback	Red	3R	Arts							[Main Phase] [Attack Phase]		Banish one opponent's SIGNI of 10000 power or below					Illust		
+Xeno Multiple	Promo	PR-040,LRIGback	White	2W 2B	Arts							[Main Phase] [Attack Phase]		Choose from these 4 up to 2 effects to resolve: 1) Your opponent's LRIG cannot attack this turn; 2) Freeze 2 opponent SIGNI; 3) Return 1 opponent SIGNI to their hand; 4) Draw 2 cards					Illust		

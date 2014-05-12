@@ -1,10 +1,11 @@
 WIXOSSeng	05-11-14
-images/backgrounds/wixoss_mat.jpg	http://i.imgur.com/91G3Sk5.png	-80787
+images/backgrounds/WIXOSSeng_mat.png	http://i.imgur.com/ryxi1Mp.png	-818204
+plugins/WIXOSSeng/decks/White_Hope.dek	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/decks/White_Hope.dek	357476
 plugins/WIXOSSeng/CardImageURLs1.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/CardImageURLs1.txt	2101821
 plugins/WIXOSSeng/bot.jpg	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/bot.jpg	8217
 plugins/WIXOSSeng/ListOfCardSoundFiles.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/ListOfCardSoundFiles.txt	24421
-plugins/WIXOSSeng/plugininfo.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/plugininfo.txt	360151
-plugins/WIXOSSeng/sets/carddata.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/carddata.txt	3209519
+plugins/WIXOSSeng/plugininfo.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/plugininfo.txt	356354
+plugins/WIXOSSeng/sets/carddata.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/carddata.txt	3214462
 plugins/WIXOSSeng/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/setimages/general/cardback.jpg	-30778
 plugins/WIXOSSeng/sets/setimages/general/LRIGback.jpg	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/setimages/general/LRIGback.jpg	173009
 plugins/WIXOSSeng/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/sets/setimages/general/spawned.jpg	-46526
@@ -24,7 +25,8 @@ plugins/WIXOSSeng/sounds/signi_p_water.wav	https://github.com/WITCHCROSS/WIXOSSe
 plugins/WIXOSSeng/sounds/signi_shield.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_shield.wav	-71471
 plugins/WIXOSSeng/sounds/signi_sword.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/signi_sword.wav	-81988
 plugins/WIXOSSeng/sounds/spell.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/master/sounds/spell.wav	-71947
-plugins/WIXOSSeng/updatelist.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/updatelist.txt	302712
+plugins/WIXOSSeng/pluginpreferences.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/pluginpreferences.txt	253113
+plugins/WIXOSSeng/updatelist.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/updatelist.txt	326879
 plugins/WIXOSSeng/version.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/version.txt	30873
-CardURLFiles:
+CardImageURLs:
 CardImageURLs1.txt
