@@ -80,6 +80,12 @@
 //General Functions
 
 	<generalfunction>
+		<label>Up All</label>
+			<kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
+			<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+
+	<generalfunction>
 		<label>Draw</label>
 			<kind>DRAWCARD</kind>
 			<includeasbutton>yes</includeasbutton>
