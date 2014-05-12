@@ -28,5 +28,5 @@ plugins/WIXOSSeng/sounds/spell.wav	https://github.com/WITCHCROSS/WIXOSSeng/raw/m
 plugins/WIXOSSeng/pluginpreferences.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/pluginpreferences.txt	253113
 plugins/WIXOSSeng/updatelist.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/updatelist.txt	326879
 plugins/WIXOSSeng/version.txt	https://raw.githubusercontent.com/WITCHCROSS/WIXOSSeng/master/version.txt	30873
-CardImageURLs:
+CardURLFiles:
 CardImageURLs1.txt
