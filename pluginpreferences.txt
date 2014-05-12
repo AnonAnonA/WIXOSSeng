@@ -68,7 +68,7 @@
 <bindingcanned8>CTRL+9</bindingcanned8>
 <recentformat>-1</recentformat>
 <deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
-<scalefactor>1.300000</scalefactor>
+<scalefactor>2.800000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>
 <prevtilt>35.000000</prevtilt>
